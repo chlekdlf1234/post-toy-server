@@ -18,6 +18,7 @@ import cors from 'cors'
 
 import { createConnection } from "typeorm"
 
+
 import { Post } from "./entities/Post"
 import { User } from "./entities/User"
 import { UpVote } from "./entities/UpVote";
