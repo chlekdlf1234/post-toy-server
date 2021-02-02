@@ -113,5 +113,3 @@ ormconfig.json
 dist
 
 aws_config.json
-
-yarn.lock
